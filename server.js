@@ -6,9 +6,9 @@
 * 
 *  https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
 * 
-*  Name: Connor McDonald        Student ID: 136123221      Date: 12/2/2023
+*  Name: Jatin        Student ID: 141358218      Date: 12/3/2023
 *
-*  Published URL: https://vast-cyan-rattlesnake-suit.cyclic.app/
+*  Published URL: https://pear-gecko-wig.cyclic.app/
 *
 ********************************************************************************/
 
